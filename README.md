@@ -10,5 +10,5 @@ team’s expertise, you have been tasked with selecting a total of 3 medicinal p
 essential to humanities survival.
 
 ## Run Instructions
-You can run this through Unity's in game editor (using version 2019.4.17f1 or newer)
-You can also install/run the application on an android device (ver. XXX or higher) via the .apk file found in the root folder of the source code.
+- You can run this through Unity's in game editor (using version 2019.4.17f1 or newer).
+- You can also install/run the application on an android device (ver. XXX or higher) via the .apk file found in the root folder of the source code.
