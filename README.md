@@ -1,4 +1,4 @@
-# Bot 380 Assignment 02
+# Bot 380 Assignment 02 - THE BOTANY SURVIVAL OPERATIVE
 This repo contains the source code for a Botany 380 group based assignment.
 
 ## Overview - Backstory
