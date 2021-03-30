@@ -1,6 +1,11 @@
 # Bot 380 Assignment 02 - THE BOTANY SURVIVAL OPERATIVE
 This repo contains the source code for a Botany 380 group based assignment.
 
+## Group Members
+- Nebye Berhe
+- Gurleen Jassar
+- Ripenjeet Jassar
+
 ## Overview - Backstory
 The year is 2021. Civilization has collapsed and has forced humanity to flee earth. Due to your
 expertise in medicinal plants thanks to BOT380, you and your friends have been selected for a mission
