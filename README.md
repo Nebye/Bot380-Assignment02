@@ -13,7 +13,7 @@ essential to humanities survival.
 ## Overview - This Project 
 We designed an android application using Unity Engine that provides information on 3 plants that could be 
 beneficial to the individuals in the scenario detailed in the overview.
-The information is available via video's and text info in the application.
+The information is available via video's in the application.
 
 ## Individual Videos
  - Plant 01: https://drive.google.com/file/d/1_bcSM6Fm4LXa2FJmtaBzkEk1SqjgRUNA/view?usp=sharing
