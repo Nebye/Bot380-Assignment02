@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Plant01.unity
     guid: 543f3ccff9fa65f468b5a268e66bb001
+  - enabled: 1
+    path: Assets/Scenes/Plant02.unity
+    guid: abec673d48a257145a467bf21bc6a587
+  - enabled: 1
+    path: Assets/Scenes/Plant03.unity
+    guid: 244b3ded59d213a4e86ab7864dc138c1
+  - enabled: 1
+    path: Assets/Scenes/Bibliography.unity
+    guid: 172f58aa8151086489ebd1b0d46af673
   m_configObjects: {}
