@@ -1,5 +1,10 @@
-# Bot 380 Assignment 02
+# Bot 380 Assignment 02 - THE BOTANY SURVIVAL OPERATIVE
 This repo contains the source code for a Botany 380 group based assignment.
+
+## Group Members
+- Nebye Berhe
+- Gurleen Jassar
+- Ripenjeet Jassar
 
 ## Overview - Backstory
 The year is 2021. Civilization has collapsed and has forced humanity to flee earth. Due to your
@@ -11,9 +16,18 @@ team’s expertise, you have been tasked with selecting a total of 3 medicinal p
 essential to humanities survival.
 
 ## Overview - This Project 
-We designed an android application using Unity Engine that provides information on 3 plants that...
-The information is available via video's and text...
+We designed an android application using Unity Engine that provides information on 3 plants that could be 
+beneficial to the individuals in the scenario detailed in the overview.
+The information is available via video's in the application.
+
+## Individual Videos
+ - Plant 01: https://drive.google.com/file/d/1_bcSM6Fm4LXa2FJmtaBzkEk1SqjgRUNA/view?usp=sharing
+ - Plant 02: https://drive.google.com/file/d/1iJT0x174APaAXkosBQVRnr_q6n5DGaGU/view?usp=sharing 
+ - Plant 03: https://drive.google.com/file/d/1xw3J9cXBdhCP6J3jET_8PpJVaweu2qtE/view?usp=sharing
+
+## ScreenCast/Application Demo
 
 ## Run Instructions
 - You can run this through Unity's in game editor (using version 2019.4.17f1 or newer).
-- You can also install/run the application on an android device (ver. XXX or higher) via the .apk file found in the root folder of the source code.
+- You can also install/run the application on an android device (android ver. 6.0 or higher) via the 
+BSO.apk file found in the root folder of the source code.
