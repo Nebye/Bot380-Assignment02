@@ -31,4 +31,4 @@ https://drive.google.com/file/d/1Lo4J6wRoZvYqsc-aN6p1Ch-xqeOKpNW3/view?usp=shari
 ## Run Instructions
 - You can run this through Unity's in game editor (using version 2019.4.17f1 or newer).
 - You can also install/run the application on an android device (android ver. 6.0 or higher) via the 
-BSO.apk file found in the link here: https://drive.google.com/file/d/17fd8fQobGN8Dgw04bozgGCxL-L9fLcjV/view?usp=sharing
+BSO.apk file found in the link here: https://drive.google.com/file/d/17fd8fQobGN8Dgw04bozgGCxL-L9fLcjV/view?usp=sharing 
