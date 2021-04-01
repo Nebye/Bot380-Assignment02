@@ -26,7 +26,7 @@ The information is available via video's in the application.
  - Plant 03: https://drive.google.com/file/d/1xw3J9cXBdhCP6J3jET_8PpJVaweu2qtE/view?usp=sharing
 
 ## ScreenCast/Application Demo
-https://docs.google.com/document/d/1eriOrKL9yRGTn9vzBddCkS_hqPN0n29K-aDZfauUXRY/edit?usp=sharing
+https://drive.google.com/file/d/1Lo4J6wRoZvYqsc-aN6p1Ch-xqeOKpNW3/view?usp=sharing 
 
 ## Run Instructions
 - You can run this through Unity's in game editor (using version 2019.4.17f1 or newer).
