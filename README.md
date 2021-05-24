@@ -26,7 +26,8 @@ The information is available via video's in the application.
  - Plant 03: https://drive.google.com/file/d/1xw3J9cXBdhCP6J3jET_8PpJVaweu2qtE/view?usp=sharing
 
 ## ScreenCast/Application Demo
- - Had a bit of an issue with my PC the week I recorded this, for a better expirience please watch the videos above or through an actual device using the build below.
+ - NOTE: Had a bit of an issue with my PC the week I recorded this, for a better expirience please watch the videos above or through an actual device using the build below.
+
 https://drive.google.com/file/d/1Lo4J6wRoZvYqsc-aN6p1Ch-xqeOKpNW3/view?usp=sharing 
 
 ## Run Instructions
